@@ -18,7 +18,7 @@ Through robust data analysis and K-Means clustering, I aimed to answer critical 
 ---
 
 ## 📌 Project Objective
-This project focuses on analyzing online retail customer data using RFM (Recency, Frequency, Monetary) metrics to build actionable customer segments with K-Means clustering. The goal is to enhance customer targeting, optimize marketing campaigns, and increase customer lifetime value (CLV).
+**This project focuses on analyzing online retail customer data using RFM (Recency, Frequency, Monetary) metrics to build actionable customer segments with K-Means clustering. The goal is to enhance customer targeting, optimize marketing campaigns, and increase customer lifetime value (CLV).**
 ---
 
 ## 🧰 Tools & Technologies
