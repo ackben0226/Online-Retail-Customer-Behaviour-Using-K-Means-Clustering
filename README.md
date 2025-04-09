@@ -28,22 +28,24 @@ This project focuses on analyzing online retail customer data using RFM (Recency
 
 ---
 
-## 📊 Methodology
+## 🛠️ 2. Actions
+**✅ Data Collection and Preparation**
+Cleaned 500K+ transaction records (handled nulls, returns, duplicates)
 
-1. **Data Preprocessing**
-   - Removed nulls, duplicates, and returns.
-   - Filtered transactions with valid CustomerID.
+Filtered to valid customer purchases and computed Total Revenue per transaction
 
-2. **RFM Feature Engineering**
-   - Recency: Days since last purchase.
-   - Frequency: Number of purchases.
-   - Monetary: Total amount spent.
+**✅ Feature Engineering (RFM Analysis)**
+**Recency:** Days since last purchase
+**Frequency:** Total number of transactions
+**Monetary:** Total amount spent
 
-3. **Data Scaling**
-   - Standardized RFM features for clustering.
+**✅ Data Transformation**
+Scaled RFM values using StandardScaler for optimal clustering performance
 
-4. **Optimal K Selection**
-   - Elbow Method & Silhouette Score:
+**✅ Clustering & Optimization**
+- Used **Elbow Method** and **Silhouette Score** to determine the optimal number of clusters (K = 4)
+- Applied **K-Means Clustering** to segment customers
+- Visualized clusters with Seaborn and Matplotlib
 
    ![Elbow Method](kmeans_plot_1.png)
 
