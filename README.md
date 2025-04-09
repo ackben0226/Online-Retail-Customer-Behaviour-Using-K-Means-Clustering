@@ -1,6 +1,15 @@
 # 🧠 Online Retail Customer Behaviour Using K-Means Clustering
 
-Customer segmentation using unsupervised machine learning to uncover behavioral patterns in online retail data.
+Can Data-Driven Customer Segmentation Drive Revenue Growth?
+In today’s competitive e-commerce landscape, understanding your customers is no longer optional — it’s mission-critical. Inspired by my passion for turning data into strategy, I embarked on this project to explore how unsupervised learning can segment customers based on behavioral traits and purchasing patterns.
+
+Through robust data analysis and K-Means clustering, I aimed to answer critical questions:
+
+- Can customer behavior be grouped meaningfully using machine learning?
+
+- How do we identify high-value, loyal customers vs. one-time buyers?
+
+- What segmentation strategy leads to better targeting and retention?
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-KMeans-yellowgreen)
