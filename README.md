@@ -1,5 +1,3 @@
-# Online-Retail-Customer-Behaviour-Using-K-Means-Clustering
-
 # 🧠 Online Retail Customer Behaviour Using K-Means Clustering
 
 Customer segmentation using unsupervised machine learning to uncover behavioral patterns in online retail data.
