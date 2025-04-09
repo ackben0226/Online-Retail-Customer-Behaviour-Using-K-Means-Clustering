@@ -1,7 +1,7 @@
 # 🧠 Online Retail Customer Behaviour Using K-Means Clustering
 
-Can Data-Driven Customer Segmentation Drive Revenue Growth?
-In today’s competitive e-commerce landscape, understanding your customers is no longer optional — it’s mission-critical. Inspired by my passion for turning data into strategy, I embarked on this project to explore how unsupervised learning can segment customers based on behavioral traits and purchasing patterns.
+__Can Data-Driven Customer Segmentation Drive Revenue Growth?__
+<br/> In today’s competitive e-commerce landscape, understanding your customers is no longer optional — it’s mission-critical. Inspired by my passion for turning data into strategy, I embarked on this project to explore how unsupervised learning can segment customers based on behavioral traits and purchasing patterns.
 
 Through robust data analysis and K-Means clustering, I aimed to answer critical questions:
 
