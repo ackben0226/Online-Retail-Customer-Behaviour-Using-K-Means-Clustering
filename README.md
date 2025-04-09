@@ -56,6 +56,11 @@ This project focuses on analyzing online retail customer data using RFM (Recency
 
 
 ---
+## 📊 3. Code & Visuals
+- RFM heatmaps and cluster scatter plots
+- Customer distribution across segments
+- Visual summaries of cluster behavior
+📌 (included in GitHub and portfolio visuals)
 
 ## 🧠 Key Insights
 - High-value customers identified and profiled.
@@ -65,6 +70,12 @@ This project focuses on analyzing online retail customer data using RFM (Recency
   - Churn reduction
 
 ---
+## 📈 4. Results Summary
+**Cluster	    Description	               Profile Summary**
+0	          High-Value Loyal Customers	Frequent, recent, high spenders
+1	          At-Risk Customers	         Infrequent, long gaps, low spending
+2	          Occasional Buyers	         Moderate frequency, average spend
+3	          One-Time Low Spenders	      Rare and low spend
 
 ## 📈 Business Impact
 - Personalized customer journeys
