@@ -69,3 +69,18 @@ To cluster customers based on their purchasing behavior using RFM (Recency, Freq
 1. Clone this repo
 2. Open the notebook: Online Retail Customer Behaviour Using K-Means Clustering II.ipynb
 3. Run all cells
+```
+
+---
+
+## 📂 Files
+- `Online Retail Customer Behaviour Using K-Means Clustering II.ipynb`
+- `kmeans_plot_1.png` – Elbow Method
+- `kmeans_plot_2.png` – Cluster Visualization
+- `kmeans_plot_3.png` – Heatmap
+- `kmeans_plot_4.png` – Distribution Plot
+
+---
+
+## 📬 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) · [Portfolio](https://YOUR_PORTFOLIO_LINK)
