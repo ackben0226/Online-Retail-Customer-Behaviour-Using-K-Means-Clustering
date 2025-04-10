@@ -71,12 +71,12 @@ This project focuses on analyzing online retail customer data using RFM (Recency
 
 ---
 ## 📈 4. Results Summary
-| Cluster | Description                | Profile Summary                          |
-|---------|----------------------------|------------------------------------------|
-| 0       | High-Value Loyal Customers | Frequent, recent, high spenders          |
-| 1       | At-Risk Customers          | Infrequent, long gaps, low spending      |
-| 2       | Occasional Buyers          | Moderate frequency, average spend        |
-| 3       | One-Time Low Spenders      | Rare and low spend                       |
+| Cluster | Description                | Profile Summary                          | Actionable Insight
+|---------|----------------------------|------------------------------------------|-------------------------------------
+| 0       | High-Value Loyal Customers | Frequent, recent, high spenders          | Target with VIP programs & exclusive offers
+| 1       | At-Risk Customers          | Infrequent, long gaps, low spending      | Reactivate with re-engagement campaign
+| 2       | Occasional Buyers          | Moderate frequency, average spend        | Encourage upsell/cross-sell via email
+| 3       | One-Time Low Spenders      | Rare and low spend                       | Low ROI—exclude from high-budget campaigns
 
 ## 📈 Business Impact
 - Personalized customer journeys
@@ -87,7 +87,7 @@ This project focuses on analyzing online retail customer data using RFM (Recency
 
 ## 💡 6. Executive Summary
 **Objective Recap:**
-This project leverages unsupervised machine learning (K-Means clustering) to segment customers based on purchasing behavior using RFM analysis. The goal is to provide actionable customer insights to support data-driven marketing, retention, and revenue growth strategies.
+<br/> This project leverages unsupervised machine learning (K-Means clustering) to segment customers based on purchasing behavior using RFM analysis. The goal is to provide actionable customer insights to support data-driven marketing, retention, and revenue growth strategies.
 
 **Key Findings:**
 - Identified four customer segments with distinct behavioral profiles.
