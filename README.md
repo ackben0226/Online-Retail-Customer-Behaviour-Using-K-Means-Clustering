@@ -90,6 +90,8 @@ Cluster    Description                Profile Summary
 | 2       | Occasional Buyers          | Moderate frequency, average spend        |
 | 3       | One-Time Low Spenders      | Rare and low spend                       |
 
+| cluster  |  description   |  profile summary |
+
 
 
 ## 📈 Business Impact
