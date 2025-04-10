@@ -71,28 +71,12 @@ This project focuses on analyzing online retail customer data using RFM (Recency
 
 ---
 ## 📈 4. Results Summary
-<br/> **Cluster	    Description	               Profile Summary**
-<br/> 0	          High-Value Loyal Customers	Frequent, recent, high spenders
-<br/> 1	          At-Risk Customers	         Infrequent, long gaps, low spending
-<br/> 2	          Occasional Buyers	         Moderate frequency, average spend
-<br/> 3	          One-Time Low Spenders	      Rare and low spend
-
-Cluster    Description                Profile Summary
-0          High-Value Loyal Customers Frequent, recent, high spenders
-1          At-Risk Customers          Infrequent, long gaps, low spending
-2          Occasional Buyers          Moderate frequency, average spend
-3          One-Time Low Spenders      Rare and low spend
-
 | Cluster | Description                | Profile Summary                          |
 |---------|----------------------------|------------------------------------------|
 | 0       | High-Value Loyal Customers | Frequent, recent, high spenders          |
 | 1       | At-Risk Customers          | Infrequent, long gaps, low spending      |
 | 2       | Occasional Buyers          | Moderate frequency, average spend        |
 | 3       | One-Time Low Spenders      | Rare and low spend                       |
-
-| cluster  |  description   |  profile summary |
-
-
 
 ## 📈 Business Impact
 - Personalized customer journeys
