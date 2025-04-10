@@ -34,9 +34,9 @@ This project focuses on analyzing online retail customer data using RFM (Recency
 - Filtered to valid customer purchases and computed Total Revenue per transaction
 
 **✅ Feature Engineering (RFM Analysis)**
-<br/> **Recency:** Days since last purchase
-<br/> **Frequency:** Total number of transactions
-<br/> **Monetary:** Total amount spent
+- <br/> **Recency:** Days since last purchase
+- <br/> **Frequency:** Total number of transactions
+- <br/> **Monetary:** Total amount spent
 
 **✅ Data Transformation**
 <br/> Scaled RFM values using StandardScaler for optimal clustering performance
@@ -71,11 +71,11 @@ This project focuses on analyzing online retail customer data using RFM (Recency
 
 ---
 ## 📈 4. Results Summary
-**Cluster	    Description	               Profile Summary**
-0	          High-Value Loyal Customers	Frequent, recent, high spenders
-1	          At-Risk Customers	         Infrequent, long gaps, low spending
-2	          Occasional Buyers	         Moderate frequency, average spend
-3	          One-Time Low Spenders	      Rare and low spend
+<br/> **Cluster	    Description	               Profile Summary**
+<br/> 0	          High-Value Loyal Customers	Frequent, recent, high spenders
+<br/> 1	          At-Risk Customers	         Infrequent, long gaps, low spending
+<br/> 2	          Occasional Buyers	         Moderate frequency, average spend
+<br/> 3	          One-Time Low Spenders	      Rare and low spend
 
 ## 📈 Business Impact
 - Personalized customer journeys
