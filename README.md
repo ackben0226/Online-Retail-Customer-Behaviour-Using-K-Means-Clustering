@@ -34,9 +34,9 @@ This project focuses on analyzing online retail customer data using RFM (Recency
 - Filtered to valid customer purchases and computed Total Revenue per transaction
 
 **✅ Feature Engineering (RFM Analysis)**
-- <br/> **Recency:** Days since last purchase
-- <br/> **Frequency:** Total number of transactions
-- <br/> **Monetary:** Total amount spent
+- **Recency:** Days since last purchase
+- **Frequency:** Total number of transactions
+- **Monetary:** Total amount spent
 
 **✅ Data Transformation**
 <br/> Scaled RFM values using StandardScaler for optimal clustering performance
@@ -84,6 +84,22 @@ This project focuses on analyzing online retail customer data using RFM (Recency
 - Stronger marketing ROI
 
 ---
+
+## 💡 6. Executive Summary
+**Objective Recap:**
+This project leverages unsupervised machine learning (K-Means clustering) to segment customers based on purchasing behavior using RFM analysis. The goal is to provide actionable customer insights to support data-driven marketing, retention, and revenue growth strategies.
+
+**Key Findings:**
+- Identified four customer segments with distinct behavioral profiles.
+- High-value loyal customers (Cluster 0) drove the majority of revenue despite being a smaller group.
+- One-time and low-value buyers represented the largest share by volume but contributed the least to revenue.
+- Clustering enabled targeted marketing recommendations for each group, maximizing campaign ROI.
+
+**Challenges & Learnings:**
+- Some clusters showed overlapping traits, suggesting potential for further refinement with advanced clustering methods (e.g., DBSCAN, GMM).
+- Time-based trends (e.g., seasonal shopping) were not yet integrated — future work could incorporate temporal features to improve segmentation accuracy.
+- Scaling and deployment considerations emerged, such as real-time updates and CRM integration.
+
 
 ## 🚀 How to Run
 ```bash
