@@ -73,10 +73,10 @@ This project focuses on analyzing online retail customer data using RFM (Recency
 ## 📈 4. Results Summary
 | Cluster | Description                | Profile Summary                          | Actionable Insight
 |---------|----------------------------|------------------------------------------|-------------------------------------
-| 0       | High-Value Loyal Customers | Frequent, recent, high spenders          | Target with VIP programs & exclusive offers
-| 1       | At-Risk Customers          | Infrequent, long gaps, low spending      | Reactivate with re-engagement campaign
-| 2       | Occasional Buyers          | Moderate frequency, average spend        | Encourage upsell/cross-sell via email
-| 3       | One-Time Low Spenders      | Rare and low spend                       | Low ROI—exclude from high-budget campaigns
+| 0       | High-Value Loyal Customers | Frequent, recent, high spenders          | Implement a robust loyalty program, provide exclusive offers, and recognize their loyalty to keep them engaged and satisfied.
+| 1       | At-Risk Customers          | Infrequent, long gaps, low spending      | Reactivate with re-engagement campaign, special discounts, or reminders to encourage them to return and purchase again.
+| 2       | Occasional Buyers          | Moderate frequency, average spend        | Focus on building relationships, providing excellent customer service, and offering incentives to encourage more frequent purchases.
+| 3       | One-Time Low Spenders      | Rare and low spend                       | Use targeted marketing campaigns, special discounts, or reminders to encourage them to return and purchase again.
 
 ## 📈 Business Impact
 - Personalized customer journeys
