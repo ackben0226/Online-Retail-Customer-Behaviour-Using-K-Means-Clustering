@@ -83,6 +83,14 @@ Cluster    Description                Profile Summary
 2          Occasional Buyers          Moderate frequency, average spend
 3          One-Time Low Spenders      Rare and low spend
 
+| Cluster | Description                | Profile Summary                          |
+|---------|----------------------------|------------------------------------------|
+| 0       | High-Value Loyal Customers | Frequent, recent, high spenders          |
+| 1       | At-Risk Customers          | Infrequent, long gaps, low spending      |
+| 2       | Occasional Buyers          | Moderate frequency, average spend        |
+| 3       | One-Time Low Spenders      | Rare and low spend                       |
+
+
 
 ## 📈 Business Impact
 - Personalized customer journeys
