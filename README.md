@@ -64,8 +64,7 @@ To power this customer segmentation project, I worked with a real-world e-commer
    - InvoiceDate — Date and time of transaction
    - UnitPrice — Price per unit in GBP
    - CustomerID — Unique customer identifier
-
-Country — Customer location
+   - Country — Customer location
 ---
 ## 📊 3. Code & Visuals
 - RFM heatmaps and cluster scatter plots
