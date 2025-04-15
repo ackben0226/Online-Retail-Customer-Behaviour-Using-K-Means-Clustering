@@ -135,7 +135,7 @@ To power this customer segmentation project, I worked with a real-world e-commer
 - Explore segment-based pricing, loyalty programs, and personalized offers.
 - Use A/B testing to validate the impact of personalized strategies on each customer cluster.
 
-## 🚀 How to Run
+## 🚀 7. How to Run
 ```bash
 1. Clone this repo
 2. Open the notebook: Online Retail Customer Behaviour Using K-Means Clustering II.ipynb
