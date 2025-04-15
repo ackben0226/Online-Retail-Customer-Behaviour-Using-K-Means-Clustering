@@ -39,9 +39,9 @@ This project focuses on analyzing online retail customer data using RFM (Recency
 <br/> Scaled RFM values using StandardScaler for optimal clustering performance
 
 **✅ Clustering & Optimization**
-- Used **Elbow Method** and **Silhouette Score** to determine the optimal number of clusters (K = 4)
-- Applied **K-Means Clustering** to segment customers
-- Visualized clusters with Seaborn and Matplotlib
+   - Used **Elbow Method** and **Silhouette Score** to determine the optimal number of clusters (K = 4)
+   - Applied **K-Means Clustering** to segment customers
+   - Visualized clusters with Seaborn and Matplotlib
 
    ![Elbow Method](kmeans_plot_1.png)
 
