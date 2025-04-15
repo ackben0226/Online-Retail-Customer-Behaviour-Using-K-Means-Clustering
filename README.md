@@ -66,6 +66,9 @@ To power this customer segmentation project, I worked with a real-world e-commer
    - CustomerID — Unique customer identifier
    - Country — Customer location
 ---
+### Preprocessing Steps:
+- Handled missing values
+- Standardized 
 ## 📊 3. Code & Visuals
 - RFM heatmaps and cluster scatter plots
 - Customer distribution across segments
