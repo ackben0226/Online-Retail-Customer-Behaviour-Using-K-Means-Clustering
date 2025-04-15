@@ -14,7 +14,7 @@ Through robust data analysis and K-Means clustering, I aimed to answer critical 
 
 ---
 
-## 📌 Project Objective
+## 📌 1. Project Objective
 This project focuses on analyzing online retail customer data using RFM (Recency, Frequency, Monetary) metrics to build actionable customer segments with K-Means clustering. The goal is to enhance customer targeting, optimize marketing campaigns, and increase customer lifetime value (CLV).
 
 ## 🧰 Tools & Technologies
@@ -25,7 +25,7 @@ This project focuses on analyzing online retail customer data using RFM (Recency
 
 ---
 
-## 🛠️ 2. Actions
+## 🛠️ Actions
 **✅ Data Collection and Preparation**
 - Cleaned 500K+ transaction records (handled nulls, returns, duplicates)
 - Filtered to valid customer purchases and computed Total Revenue per transaction
@@ -45,13 +45,27 @@ This project focuses on analyzing online retail customer data using RFM (Recency
 
    ![Elbow Method](kmeans_plot_1.png)
 
-5. **K-Means Clustering**
+**K-Means Clustering**
    - Clustered customers into 4 segments.
    - Interpreted and visualized the results.
 
    ![Clusters](https://github.com/user-attachments/assets/6bd4ae8e-7d8a-4618-b762-8ab0ab3af2a9)
 
+## 📊 2.Data Overview
+To power this customer segmentation project, I worked with a real-world e-commerce transactions dataset containing detailed purchase records from an online UK-based retail store between December 2010 and December 2011. The dataset provided a rich foundation for uncovering customer behavior patterns and segmenting users based on purchasing habits.
 
+### Data Description:
+📌 541,909 transactions across 37 countries
+- **Key Attributes**
+   - InvoiceNo — Transaction identifier
+   - StockCode — Product code
+   - Description — Product description
+   - Quantity — Number of units purchased
+   - InvoiceDate — Date and time of transaction
+   - UnitPrice — Price per unit in GBP
+   - CustomerID — Unique customer identifier
+
+Country — Customer location
 ---
 ## 📊 3. Code & Visuals
 - RFM heatmaps and cluster scatter plots
@@ -82,7 +96,7 @@ This project focuses on analyzing online retail customer data using RFM (Recency
 
 ---
 
-## 💡 6. Executive Summary
+## 💡 5. Executive Summary
 **Objective Recap:**
 <br/> This project leverages unsupervised machine learning (K-Means clustering) to segment customers based on purchasing behavior using RFM analysis. The goal is to provide actionable customer insights to support data-driven marketing, retention, and revenue growth strategies.
 
@@ -97,7 +111,7 @@ This project focuses on analyzing online retail customer data using RFM (Recency
 - Time-based trends (e.g., seasonal shopping) were not yet integrated — future work could incorporate temporal features to improve segmentation accuracy.
 - Scaling and deployment considerations emerged, such as real-time updates and CRM integration.
 
-## 🔹 5. Discussion, Growth, and Next Steps
+## 🔹 6. Discussion, Growth, and Next Steps
 **Future Enhancements:**
 - Integrate supervised learning to predict customer lifetime value (CLV) and churn risk across segments.
 - Incorporate time-series features (e.g., recency decay, seasonality trends) for dynamic clustering.
