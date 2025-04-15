@@ -12,7 +12,7 @@ Through robust data analysis and K-Means clustering, I aimed to answer critical 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-KMeans-yellowgreen)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
----
+--- 
 
 ## 📌 1. Project Objective
 This project focuses on analyzing online retail customer data using RFM (Recency, Frequency, Monetary) metrics to build actionable customer segments with K-Means clustering. The goal is to enhance customer targeting, optimize marketing campaigns, and increase customer lifetime value (CLV).
@@ -66,9 +66,15 @@ To power this customer segmentation project, I worked with a real-world e-commer
    - CustomerID — Unique customer identifier
    - Country — Customer location
 ---
-### Preprocessing Steps:
-- Handled missing values
-- Standardized 
+### 🛠️ Preprocessing Steps:
+- Handled missing values, examined outliers in RFM using boxplot and histogram and dealt with them.
+- Removed transactions with negative quantities, zero prices, or missing customer IDs.
+- Standardized RFM, reducing the disproportionate influence of large values and to ensure fair distance calculations during clustering.
+
+### 📌 RFM Feature Engineering
+- Calculated Recency (days since last purchase), Frequency (total purchases), and Monetary Value (total spend) for each customer.
+- Created an RFM table to quantify customer engagement and value.
+
 ## 📊 3. Code & Visuals
 - RFM heatmaps and cluster scatter plots
 - Customer distribution across segments
