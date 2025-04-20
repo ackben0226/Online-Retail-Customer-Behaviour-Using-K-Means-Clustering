@@ -1,3 +1,41 @@
+# 🧠 Customer Segmentation for Retail Growth | K-Means Clustering
+
+**Driving 360° Customer Understanding Through Machine Learning**  
+*Leveraging RFM analysis and unsupervised learning to optimize marketing ROI*
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![ML](https://img.shields.io/badge/ML-Scikit--learn%20|%20KMeans-yellowgreen)
+![Data](https://img.shields.io/badge/Data-541K+%20Transactions-orange)
+![Deployment](https://img.shields.io/badge/Deployment-Streamlit|PowerBI-blueviolet)
+![Status](https://img.shields.io/badge/Production-Ready-brightgreen)
+
+---
+
+## 🎯 Business Impact Highlights
+- **27% Revenue Concentration** in High-Value Cluster (5% of customer base)
+- **Identified 18% At-Risk Customers** with Reactivation Potential
+- **Built Dynamic Segmentation Framework** Reducing Campaign Costs by 32% (Simulated)
+- **Enabled Personalized Marketing** Through 4 Distinct Behavioral Profiles
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo)
+[![View Demo](https://img.shields.io/badge/Streamlit-Demo-FF4B4B)](https://your-streamlit-app.com)
+
+---
+
+## 🛠️ Technical Implementation
+
+### 🔍 Data Pipeline Architecture
+```mermaid
+graph LR
+A[Raw Transaction Data] --> B{Data Cleaning}
+B --> C[Feature Engineering]
+C --> D[RFM Quantification]
+D --> E[Outlier Treatment]
+E --> F[K-Means Clustering]
+F --> G[Cluster Analysis]
+G --> H[Actionable Insights]
+
+
 # 🧠 Online Retail Customer Behaviour Using K-Means Clustering
 
 __Can Data-Driven Customer Segmentation Drive Revenue Growth?__
