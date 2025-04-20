@@ -35,6 +35,19 @@ E --> F[K-Means Clustering]
 F --> G[Cluster Analysis]
 G --> H[Actionable Insights]
 
+## 🛠️ Technical Implementation
+
+### 🔍 Data Pipeline Architecture
+```mermaid
+graph LR
+A[Raw Transaction Data] --> B{Data Cleaning}
+B --> C[Feature Engineering]
+C --> D[RFM Quantification]
+D --> E[Outlier Treatment]
+E --> F[K-Means Clustering]
+F --> G[Cluster Analysis]
+G --> H[Actionable Insights]
+
 
 # 🧠 Online Retail Customer Behaviour Using K-Means Clustering
 
