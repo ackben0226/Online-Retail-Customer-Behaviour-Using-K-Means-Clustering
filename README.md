@@ -70,7 +70,7 @@ Python 3.10 | Pandas 2.0 | Scikit-learn 1.2 | Plotly 5.15
 ```
 
 ## 📊 Key Insights & Visualizations
-- Elbow Method
+- [Elbow Method](https://github.com/user-attachments/assets/ed941379-5ec1-47c2-ba0a-6de2a7664786)
 - [3D Cluster Visualization](https://github.com/user-attachments/assets/c6a9f178-a3e8-428a-9790-3d3a15628d72)
 - RFM Heatmap
 
