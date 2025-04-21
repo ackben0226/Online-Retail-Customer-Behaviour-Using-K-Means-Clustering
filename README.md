@@ -22,8 +22,8 @@
 
 ---
 ## 🔍 Technical Implementation
-📊 Data Pipeline Architecture
-- e
+### 📊 Data Pipeline Architecture
+![mermaid_20250421_827cce](https://github.com/user-attachments/assets/2d8463cd-224b-456d-b77f-5090caf55227)
 
 ## 🔧 Core Components
 ### 1. Data Preparation
