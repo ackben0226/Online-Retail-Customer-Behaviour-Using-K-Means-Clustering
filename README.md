@@ -18,7 +18,7 @@
 - **Enabled Personalized Marketing** Through 4 Distinct Behavioral Profiles
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo)
-[![View Demo](https://img.shields.io/badge/Streamlit-Demo-FF4B4B)](https://your-streamlit-app.com)
+[![View Demo](https://img.shields.io/badge/Streamlit-Demo-FF4B4B)](http://localhost:8501/)
 
 ---
 ## 🔍 Technical Implementation
