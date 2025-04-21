@@ -74,41 +74,23 @@ Python 3.10 | Pandas 2.0 | Scikit-learn 1.2 | Plotly 5.15
 - [3D Cluster Visualization](https://github.com/user-attachments/assets/c6a9f178-a3e8-428a-9790-3d3a15628d72)
 - RFM Heatmap
 
-🚀 Getting Started
-Installation
-bash
-git clone https://github.com/your-repo/customer-segmentation.git
+## 🚀 Getting Started
+### Installation
+```bash
+git clone https://github.com/ackben0226/customer-segmentation.git
 pip install -r requirements.txt
-Usage
-python
+```
+### Usage
+```python
 # Run analysis
-jupyter notebook Customer_Segmentation.ipynb
+jupyter notebook Online Retail Customer Behaviour Using K-Means Clustering II.ipynb
 
 # Launch dashboard
 streamlit run app.py
-📚 Documentation
-Technical Deep Dive: Medium Post
+```
+### 📚 Documentation
+- Dataset Source: UCI Machine Learning Repository
 
-Dataset Source: UCI Machine Learning Repository
-
-Model Cards: Cluster Documentation
-
-🤝 Connect & Contribute
-LinkedIn
-Email
-
-Key Differentiators:
-
-Recruiter-First Structure: Metrics before technical details
-
-Production-Ready Focus: Docker/CRM integration highlights
-
-Interactive Elements: Mermaid diagrams & colab badges
-
-Quantified Impact: Specific revenue/cluster statistics
-
-Clear Career Signals: Contribution guidelines & contact info
-
-This version tells a story of technical competence paired with business impact - exactly what hiring managers want to see.
-
-New chat
+### 🤝 Connect & Contribute
+[LinkedIn](linkedIn/ack.ben0226)
+[Email](ack.ben0226@gmail.com)
