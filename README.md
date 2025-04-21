@@ -17,7 +17,7 @@
 - **Built Dynamic Segmentation Framework** Reducing Campaign Costs by 32% (Simulated)
 - **Enabled Personalized Marketing** Through 4 Distinct Behavioral Profiles
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ackben0226)
 [![View Demo](https://img.shields.io/badge/Streamlit-Demo-FF4B4B)](http://localhost:8501/)
 
 ---
