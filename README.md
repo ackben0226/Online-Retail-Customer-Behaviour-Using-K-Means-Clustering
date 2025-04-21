@@ -92,5 +92,5 @@ streamlit run app.py
 - Dataset Source: UCI Machine Learning Repository
 
 ### 🤝 Connect & Contribute
-[LinkedIn](linkedIn/in/ackahbenjamin/)
+[LinkedIn](linkedin.com/in/ackahbenjamin/)
 [Email](ack.ben0226@gmail.com)
