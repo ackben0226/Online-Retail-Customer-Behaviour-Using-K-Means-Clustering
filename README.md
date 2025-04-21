@@ -71,7 +71,7 @@ def calculate_rfm(data):
       Automated hyperparameter tuning
 
 ## 📊 Key Insights & Visualizations
--📊 [Elbow Method for cluster selection](https://github.com/user-attachments/assets/ed941379-5ec1-47c2-ba0a-6de2a7664786)
+- 📊 [Elbow Method for cluster selection](https://github.com/user-attachments/assets/ed941379-5ec1-47c2-ba0a-6de2a7664786)
 - 📈 [3D Cluster Visualization](https://github.com/user-attachments/assets/c6a9f178-a3e8-428a-9790-3d3a15628d72)
 - 🔥 RFM Heatmap
 
@@ -119,6 +119,6 @@ streamlit run app.py
 - Dataset Source: UCI Machine Learning Repository
 
 ### 🤝 Connect & Contribute
-- 🔗 [linkedin.com/in/ackahbenjamin](linkedin.com/in/ackahbenjamin)
+- 🔗 [linkedin.com/in/ackahbenjamin](https:/linkedin.com/in/ackahbenjamin)
 - Ⓜ️ack.ben0226@gmail.com
 
