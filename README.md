@@ -120,6 +120,5 @@ streamlit run app.py
 
 ### 🤝 Connect & Contribute
 - 🔗 [linkedin.com/in/ackahbenjamin](https://linkedin.com/in/ackahbenjamin)
-- [🔗 LinkedIn](https://linkedin.com/in/ackahbenjamin)
 - Ⓜ️ack.ben0226@gmail.com
 
